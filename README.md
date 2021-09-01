@@ -1,0 +1,2 @@
+# betterdiscord
+script
